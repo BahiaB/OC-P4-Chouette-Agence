@@ -648,10 +648,11 @@ h6,
 p,
 label,
 .btn,
-a {
+a,
+li {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757;
+    color: black;
 }
 
 .container {
@@ -734,9 +735,8 @@ h4 {
     margin-bottom: 14px;
     margin-top: 24px;
 }
-
-.white {
-    color: #FFFFFF!important;
+.white{
+    color:white;
 }
 
 .portfolio-thumb {
@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white;
 }
 
 .btn-atomic-tangerine {
